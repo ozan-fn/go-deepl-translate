@@ -1,0 +1,14 @@
+# hasil build
+/deepl
+*.exe
+*.test
+*.out
+
+# subtitle (input & hasil terjemahan, jangan di-commit)
+*.srt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
