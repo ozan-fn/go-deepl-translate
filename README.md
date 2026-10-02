@@ -2,6 +2,8 @@
 
 Translate text and `.srt` subtitle files to Indonesian through DeepL's web endpoint — no API key, no external dependencies.
 
+![Usage](sh.png)
+
 ## Repository name
 
 ```
